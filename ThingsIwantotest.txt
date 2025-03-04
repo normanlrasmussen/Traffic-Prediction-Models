@@ -1,0 +1,17 @@
+Things I want to test:
+
+
+PyTorch:
+Node numbers
+
+Drop Out
+
+Different Optimizers
+
+Different Scalars on the Data
+
+Epoch numbers
+
+Lr
+
+Decay Rate
