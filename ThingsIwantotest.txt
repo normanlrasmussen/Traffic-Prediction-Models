@@ -10,8 +10,8 @@ Different Optimizers
 
 Different Scalars on the Data
 
-Epoch numbers
+Epoch numbers, DONE 4000
 
-Lr
+Lr, DONE 0.05
 
 Decay Rate
