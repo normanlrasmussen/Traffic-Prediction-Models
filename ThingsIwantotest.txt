@@ -4,7 +4,7 @@ Things I want to test:
 PyTorch:
 Node numbers
 
-Drop Out
+Drop Out, Done None
 
 Different Optimizers
 
